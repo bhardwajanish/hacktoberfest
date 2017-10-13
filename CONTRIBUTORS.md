@@ -694,3 +694,8 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [Deepak Singh](https://github.com/depuk98)
+- Place: India
+- Bio: second year Computer Science Student
+- GitHub: [depuk98](https://github.com/depuk98)
